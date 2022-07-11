@@ -4,6 +4,7 @@
   * [Photon-Unity](https://github.com/spatel210/Photon-Unity)
   * [SmartFox_Unity](https://github.com/spatel210/SmartFox_Unity)
   * [Facebook-Unity](https://github.com/spatel210/Facebook-Unity)
+  * [SocketIO-Unity](https://github.com/spatel210/SocketIO-Unity)
 
 
 
