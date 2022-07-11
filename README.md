@@ -1,8 +1,8 @@
 # Profile
 
-## UNITY DEMO
-  * [Photon-Unity-Demo](https://github.com/spatel210/Photon-Unity-Demo)
-  * [SmartFox_Unity_Demo](https://github.com/spatel210/SmartFox_Unity_Demo)
+## UNITY SAMPLE
+  * [Photon-Unity](https://github.com/spatel210/Photon-Unity)
+  * [SmartFox_Unity](https://github.com/spatel210/SmartFox_Unity)
 
 
 
